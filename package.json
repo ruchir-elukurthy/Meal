@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "coinflip": "^1.0.0",
+    "create-react-app": "^4.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-live-search": "^1.0.2",
@@ -31,5 +32,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchir-elukurthy/Meal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruchir-elukurthy/Meal/issues"
+  },
+  "homepage": "https://github.com/ruchir-elukurthy/Meal#readme"
 }
